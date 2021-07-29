@@ -6,7 +6,11 @@ We've been tasked with building a webpage to support Investigative Journalist Da
 
 ### Results 
 
+![homepage](https://github.com/watsonlarry/UFOs/blob/main/Resources/Homepage.png)
+
 We've built a simple webpage to ease the perusal of our collected UFO data.  By entering search terms into the appropriate boxes (our options: date, city, state, country, and shape) one can filter the data to narrow the results. One need only enter the search term, a button click is not needed to initiate the filtering.
+
+![filter_table](https://github.com/watsonlarry/UFOs/blob/main/Resources/filtered_data2.png)
 
 ### Summary
 
